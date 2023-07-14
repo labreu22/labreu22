@@ -1,4 +1,4 @@
-### Hi there, i'm Leonardo de Abreu 👋
+### Olá, eu sou Leonardo de Abreu 👋
 ##
 
 <div>
@@ -15,10 +15,10 @@
 </div>
 
 ##
-- 🔭 I’m currently working on PowerBuilder (fullstack)
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Angular and NodeJs
-- 💬 Ask me about anything
-- 📫 How to reach me on Email -> leonardo.abreu.gomes@gmail.com
-- 😄 Pronouns: He/Him
+- 🔭 Hoje trabalho com PowerBuilder (fullstack)
+- 🌱 Estou aprendendo HTML, CSS, JavaScript, Angular and NodeJs
+- 💬 Me pergunte sobre qualquer coisa
+- 📫 Para falar comigo, segue o Email -> leonardo.abreu.gomes@gmail.com
+- 😄 Pronomes: Ele/Dele
 
 
