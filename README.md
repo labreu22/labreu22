@@ -3,8 +3,8 @@
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labreu22&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=labreu22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labreu22&layout=compact&langs_count=7&theme=dracula"/>
+<img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=labreu22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Contatos:
